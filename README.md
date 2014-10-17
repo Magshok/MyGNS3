@@ -1,4 +1,4 @@
 MyGNS3
 ======
 
-Just another repository
+Switches, Routers, Firewalls, Load Balancers and Access Points
